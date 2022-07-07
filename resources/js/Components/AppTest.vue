@@ -4,10 +4,9 @@
 </template>
 
 <script>
-import AppMenu from "./AppMenu";
 export default {
   name: "AppTest",
-  components: {AppMenu}
+
 }
 </script>
 
