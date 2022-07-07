@@ -21,8 +21,8 @@
 <body>
 <div id="app" class="container">
   <h1>Home index</h1>
-  <app-test />
-  <app-menu />
+  <app-test></app-test>
+  <app-menu></app-menu>
 </div>
 <!-- Scripts -->
 <script src="{{ asset('js/app.js') }}" defer></script>
